@@ -1,0 +1,44 @@
+body {
+  background-color: #DDDDDD;
+  font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+  margin: 0px;
+}
+
+header {
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+  font-size: 40px;
+}
+
+#container {
+  margin: 20px;
+}
+
+footer {
+  background-color: #444444;
+  padding: 30px 10px;
+  border-top: 5px solid white;
+  color: #FFFFFF;
+  font-size: 10px;
+  font-style: italic;
+  width: 100%;
+}
+
+footer a:link {
+  color: #FFFFFF;
+}
+
+footer a:visited {
+  color: #CCCCCC;
+}
+
+footer a:hover {
+  color: #999999;
+}
+
+.articleContents {
+  background-color: #FFFFFF;
+  -webkit-box-shadow:10px 5px 5px #888888;
+  -moz-box-shadow:10px 5px 5px #888888;
+  box-shadow:10px 5px 5px #888888;
+  margin-top: 30px;
+}
